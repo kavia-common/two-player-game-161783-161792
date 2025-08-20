@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/two-player-game-161783-161792/simple_two_player_game_frontend"
+}
